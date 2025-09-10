@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍔 Food Delivery App - Creational Design Patterns
 
 ## 🎯 Implemented Patterns
@@ -21,3 +22,6 @@ https://yourusername.github.io/food-delivery-app
 
 ## 📸 Screenshots
 *(Add after deployment)*
+=======
+# Food_delivery_app
+>>>>>>> 8af94c5856a7651869299c118a31b343e4f14a39
